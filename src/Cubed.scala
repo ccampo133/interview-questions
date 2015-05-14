@@ -1,4 +1,8 @@
 /**
+ * Provide algorithms to compute the number of invisible cubes in
+ * a cube that has been cut `n` times. Also provide an algorithm to
+ * give the total number of cubes.
+ *
  * @author Chris Campo
  */
 object Cubed {

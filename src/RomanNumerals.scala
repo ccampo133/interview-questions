@@ -1,4 +1,7 @@
 /**
+ * Provide an algorithm to convert a string of Roman
+ * numerals into a decimal number.
+ *
  * @author Chris Campo
  */
 object RomanNumerals {

@@ -1,6 +1,8 @@
 import scala.annotation.tailrec
 
 /**
+ * Provide an algorithm to reverse a singly linked-list.
+ *
  * @author Chris Campo
  */
 object ListReversal {

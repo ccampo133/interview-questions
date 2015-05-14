@@ -1,4 +1,7 @@
 /**
+ * Show how to implement a simple binary tree, and provide an
+ * algorithm to compute the maximum depth of said tree.
+ *
  * @author Chris Campo
  */
 object BinaryTree {

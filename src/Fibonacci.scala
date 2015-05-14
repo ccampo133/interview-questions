@@ -1,4 +1,7 @@
 /**
+ * Provide iterative and recursive algorithms to compute the
+ * first `n` Fibonacci numbers.
+ *
  * @author Chris Campo
  */
 object Fibonacci extends App {

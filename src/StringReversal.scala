@@ -1,4 +1,6 @@
 /**
+ * Provide an algorithm to reverse a string, or character array, in place.
+ *
  * @author Chris Campo
  */
 object StringReversal {

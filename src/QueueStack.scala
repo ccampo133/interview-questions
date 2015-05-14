@@ -1,4 +1,7 @@
 /**
+ * Build a queue and stack based on a singly linked list.
+ * I did these immutable and generic.
+ *
  * @author Chris Campo
  */
 object QueueStack {
