@@ -1,5 +1,3 @@
-
-
 /**
  * Algorithms to compute the sum of a sequence. I used type-classes to handle generic numeric types.
  *
